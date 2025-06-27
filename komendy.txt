@@ -1,1 +1,1 @@
-html-validate "src/**/*.html"
+npm exec html-validate index.html
